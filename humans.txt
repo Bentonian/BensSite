@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Me, creator, me
+
+# THANKS
+
+  <name>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
+  jQuery, Bootstrap, FontAwesome
+  Compass, Jekyll
+  Gulp
+  drink_up_doctor
