@@ -6,3 +6,9 @@
 /bower_components/
 /css/
 /node_modules/
+
+#added from gitignore recommendations 
+db/*.sqlite3
+/db/*.sqlite3-journal
+/log/*
+/tmp/*
